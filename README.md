@@ -1,7 +1,10 @@
-Idea Cloud
-Single-page Web Application for Generating, Sharing, and Exploring Project Ideas
-This project is part of the course “Introduction to Computer Engineering and Digital Technology (2110222), Semester 1/2025”, Department of Computer Engineering, Faculty of Engineering, Chulalongkorn University.
+# Idea Cloud ☁️
 
+> **Single-page Web Application for Generating, Sharing, and Exploring Project Ideas**
+
+---
+
+This project is part of the course **“Introduction to Computer Engineering and Digital Technology (2110222), Semester 1/2025”**, Department of Computer Engineering, Faculty of Engineering, Chulalongkorn University.
 
 
 ## 💡 Project Background
