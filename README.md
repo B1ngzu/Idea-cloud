@@ -1,4 +1,4 @@
-# Idea Cloud ☁️
+ ☁️ # Idea Cloud
 
 > **Single-page Web Application for Generating, Sharing, and Exploring Project Ideas**
 
