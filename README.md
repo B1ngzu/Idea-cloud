@@ -36,4 +36,5 @@ Idea Cloud leverages Large Language Model (LLM) APIs to enhance the ideation pro
 
 3. **Idea Expansion** Users can select an idea of interest to request further elaboration. The API generates detailed extensions and related concepts to help refine the idea into a concrete project plan.
 
+<img width="2058" height="1156" alt="image" src="https://github.com/user-attachments/assets/8e3fd48a-2b7f-455c-90d6-5e3e874ec9a5" />
 
